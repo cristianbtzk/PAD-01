@@ -1,4 +1,4 @@
-package EX07;
+package EX06;
 
 public class EstadoGlobal {
 	boolean continuaBusca = true;

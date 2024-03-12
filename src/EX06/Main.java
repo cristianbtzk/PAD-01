@@ -1,4 +1,4 @@
-package EX07;
+package EX06;
 
 import java.util.Scanner;
 import java.util.stream.IntStream;
